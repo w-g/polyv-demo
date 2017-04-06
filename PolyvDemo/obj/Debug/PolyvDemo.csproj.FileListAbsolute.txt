@@ -1,0 +1,6 @@
+E:\Workspace\PolyvDemo\PolyvDemo\bin\Debug\PolyvDemo.exe.config
+E:\Workspace\PolyvDemo\PolyvDemo\bin\Debug\PolyvDemo.exe
+E:\Workspace\PolyvDemo\PolyvDemo\bin\Debug\PolyvDemo.pdb
+E:\Workspace\PolyvDemo\PolyvDemo\obj\Debug\PolyvDemo.csprojResolveAssemblyReference.cache
+E:\Workspace\PolyvDemo\PolyvDemo\obj\Debug\PolyvDemo.exe
+E:\Workspace\PolyvDemo\PolyvDemo\obj\Debug\PolyvDemo.pdb
